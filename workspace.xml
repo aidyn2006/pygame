@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ec747be0-cb09-4728-9232-73534adfbd6a" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/.venv/Lib/site-packages/_virtualenv.py" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2ZYtlWzM74xMl6T6sIzek2yufll" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.game.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
+      &quot;Python&quot;
+    ]
+  }
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-7a29c1521ef0-c986f194a52a-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-233.11799.298" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ec747be0-cb09-4728-9232-73534adfbd6a" name="Changes" comment="" />
+      <created>1702610993726</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1702610993726</updated>
+      <workItem from="1702610999244" duration="959000" />
+      <workItem from="1702714381307" duration="7871000" />
+      <workItem from="1702737626654" duration="2175000" />
+      <workItem from="1702812327481" duration="971000" />
+      <workItem from="1702813454578" duration="936000" />
+      <workItem from="1702908354072" duration="3000" />
+      <workItem from="1703052385166" duration="6215000" />
+      <workItem from="1703068349512" duration="119000" />
+      <workItem from="1703073987968" duration="126000" />
+      <workItem from="1703162084802" duration="3000" />
+      <workItem from="1703214159486" duration="2928000" />
+      <workItem from="1703241954064" duration="832000" />
+      <workItem from="1703402783212" duration="5292000" />
+      <workItem from="1703500991969" duration="597000" />
+      <workItem from="1703602008851" duration="3000" />
+      <workItem from="1703657403850" duration="1876000" />
+      <workItem from="1703819361934" duration="3028000" />
+      <workItem from="1703829608830" duration="6000" />
+      <workItem from="1704379738101" duration="3652000" />
+      <workItem from="1704385064421" duration="3524000" />
+      <workItem from="1704432407553" duration="10126000" />
+      <workItem from="1704453512088" duration="53000" />
+      <workItem from="1704523548502" duration="11259000" />
+      <workItem from="1704549684219" duration="1355000" />
+      <workItem from="1704554192971" duration="3352000" />
+      <workItem from="1704557588282" duration="788000" />
+      <workItem from="1704558512720" duration="862000" />
+      <workItem from="1704707786961" duration="421000" />
+      <workItem from="1704709310741" duration="158000" />
+      <workItem from="1704901659062" duration="475000" />
+      <workItem from="1704902509986" duration="51000" />
+      <workItem from="1704903083339" duration="3000" />
+      <workItem from="1704909141354" duration="8000" />
+      <workItem from="1705306701075" duration="31000" />
+      <workItem from="1705402429893" duration="97000" />
+      <workItem from="1705471530337" duration="117000" />
+      <workItem from="1705471880698" duration="411000" />
+      <workItem from="1705476749078" duration="154000" />
+      <workItem from="1705477011518" duration="8000" />
+      <workItem from="1705666201595" duration="3000" />
+      <workItem from="1705666762923" duration="26000" />
+      <workItem from="1705667085695" duration="9000" />
+      <workItem from="1706676661714" duration="72000" />
+      <workItem from="1707812760049" duration="2103000" />
+      <workItem from="1707882843080" duration="106000" />
+      <workItem from="1707890495708" duration="98000" />
+      <workItem from="1707891242274" duration="83000" />
+      <workItem from="1707891329654" duration="83000" />
+      <workItem from="1707891423424" duration="5000" />
+      <workItem from="1708395714169" duration="1386000" />
+      <workItem from="1708490463290" duration="16000" />
+      <workItem from="1708490808773" duration="133000" />
+      <workItem from="1708496147237" duration="1995000" />
+      <workItem from="1708584587648" duration="1272000" />
+      <workItem from="1708659243404" duration="1030000" />
+      <workItem from="1708688704527" duration="2546000" />
+      <workItem from="1708699431992" duration="5000" />
+      <workItem from="1708701906348" duration="991000" />
+      <workItem from="1708761509960" duration="52000" />
+      <workItem from="1708762313385" duration="251000" />
+      <workItem from="1708770118551" duration="293000" />
+      <workItem from="1708851961338" duration="3691000" />
+      <workItem from="1708858670566" duration="22000" />
+      <workItem from="1708863849244" duration="649000" />
+      <workItem from="1709019002269" duration="3650000" />
+      <workItem from="1709042075081" duration="4264000" />
+      <workItem from="1709046422159" duration="3000" />
+      <workItem from="1709046438800" duration="42000" />
+      <workItem from="1709093120960" duration="947000" />
+      <workItem from="1709099909868" duration="1800000" />
+      <workItem from="1709214091762" duration="108000" />
+      <workItem from="1709214222122" duration="1577000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.spec" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/pythonProject$game.coverage" NAME="game Coverage Results" MODIFIED="1706676666181" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv" />
+    <SUITE FILE_PATH="coverage/pythonProject$test.coverage" NAME="test Coverage Results" MODIFIED="1709216450207" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv" />
+  </component>
+</project>
